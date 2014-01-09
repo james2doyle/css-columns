@@ -7,6 +7,8 @@ css-columns
 
 Well you can get a lot of really nice layouts that scale down perfectly to mobile. You can really use 1 line of CSS to change your grid, once the spec is complete (curse you vendor prefixes).
 
+You can also get perfect gaps without crazy selectors and margin-left/float tricks. It is also easy to make masonry/isotope layouts without javascript.
+
 ### Why Should You Not Use CSS3 Columns
 
 They are buggy. Just try scaling and shrinking the grid in Chrome. It is really strange. Columns will shift and get thrown out of place.
